@@ -3,28 +3,31 @@ Basic starter template to start any new project.
 
 # Starter Kit
 
-1. Editor and Configuration
+## 1. Editor and Configuration
 
  - Make sure your editor is compatible with your editor. Check here: http://editorconfig.org/
 
-2. Package Management
+## 2. Package Management
 
-3. Development Web Server
+ - We are going to check all of our NPM installs for security vulnerabilities: https://nodesecurity.io/
+ Currently using `version: 2.6.2`
 
-4. Automation
+## 3. Development Web Server
 
-5. Transpiling
+## 4. Automation
 
-6. Bundling
+## 5. Transpiling
 
-7. Linting
+## 6. Bundling
 
-8. Testing and Continuous Integration
+## 7. Linting
 
-9. HTTP Calls
+## 8. Testing and Continuous Integration
 
-10. Project Structure
+## 9. HTTP Calls
 
-11. Production Build
+## 10. Project Structure
 
-12. Production Deploy
+## 11. Production Build
+
+## 12. Production Deploy
