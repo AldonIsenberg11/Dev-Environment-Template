@@ -1,0 +1,12 @@
+{
+  "name": "AldonIsenberg",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "Aldon L. Isenberg II",
+  "license": "AGPL-3.0",
+  "dependencies": {},
+  "devDependencies": {
+    "nsp": "2.6.2"
+  }
+}
