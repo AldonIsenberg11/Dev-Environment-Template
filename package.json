@@ -1,12 +1,16 @@
 {
-  "name": "AldonIsenberg",
+  "name": "Project Template",
   "version": "1.0.0",
   "description": "",
   "scripts": {},
   "author": "Aldon L. Isenberg II",
   "license": "AGPL-3.0",
-  "dependencies": {},
+  "dependencies": {
+    "localtunnel": "^1.8.3"
+  },
   "devDependencies": {
-    "nsp": "2.6.2"
+    "express": "4.14.0",
+    "nsp": "2.6.2",
+    "open": "0.0.5"
   }
 }
