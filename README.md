@@ -5,35 +5,39 @@ Basic starter template to start any new project.
 
 ## 1. Editor and Configuration
 
-#### Editor config
+##### Editor config | http://editorconfig.org/
     Make sure your editor is compatible with your editor.
-    Check here: http://editorconfig.org/
 
 ## 2. Package Management
-https://nodesecurity.io/ `"nsp": "2.6.2",`
 
+##### Node Security Platform | https://nodesecurity.io/
+    "nsp": "2.6.2"
     This checks any subsequent NPM installs for security vulnerabilities
 
 
 ## 3. Development Web Server
 
-    Express is setup in /buildScripts/srcServer.js
+##### Express.js | https://expressjs.com/
+    /buildScripts/srcServer.js is currently set to port: 3000
 
-    srcServer.js is currently set to port: 3000
 
-#### Local tunnel
+##### Local tunnel | https://localtunnel.github.io/www/
 
-    This command will produce a shareable link
+    This command will produce a shareable link:
 
-`lt --port 3000 --subdomain <whatEverYouWant>`
+Command | `lt --port 3000 --subdomain <whatEverYouWant>`
+
+Response | `your url is: https://<whatEverYouWant>.localtunnel.me`
 
     assuming <whatEverYouWant> is not already currently in use.
 
-Example |  `lt --port 3000 --subdomain aldon`
-
-Response | your url is: https://aldon.localtunnel.me
 
 ## 4. Automation
+
+##### NPM scripts | https://docs.npmjs.com/misc/scripts
+
+    Built into the package.json "Scripts" : {}
+
 
 ## 5. Transpiling
 
