@@ -6,7 +6,7 @@ Basic starter template to start any new project.
 ## 1. Editor and Configuration
 
 ##### Editor config | http://editorconfig.org/
-    Make sure your editor is compatible with your editor.
+    Make sure your editor is compatible with your editor
 
 ## 2. Package Management
 
@@ -22,21 +22,23 @@ Basic starter template to start any new project.
 
 
 ##### Local tunnel | https://localtunnel.github.io/www/
-
     This command will produce a shareable link:
 
 Command | `lt --port 3000 --subdomain <whatEverYouWant>`
 
 Response | `your url is: https://<whatEverYouWant>.localtunnel.me`
 
-    assuming <whatEverYouWant> is not already currently in use.
+    assuming <whatEverYouWant> is not already currently in use
 
 
 ## 4. Automation
 
 ##### NPM scripts | https://docs.npmjs.com/misc/scripts
-
     Built into the package.json "Scripts" : {}
+    Utliizes the node_modules/.bin executables
+
+##### npm-run-all | https://github.com/mysticatea/npm-run-all
+    Allows for running scripts in parallel
 
 
 ## 5. Transpiling
