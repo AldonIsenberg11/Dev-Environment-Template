@@ -20,7 +20,7 @@ Basic starter template to start any new project.
 ##### Express.js | https://expressjs.com/
     /buildScripts/srcServer.js is currently set to port: 3000
 
-
+<!-- security vulnerabilities
 ##### Local tunnel | https://localtunnel.github.io/www/
     This command will produce a shareable link:
 
@@ -29,7 +29,7 @@ Command | `lt --port 3000 --subdomain <whatEverYouWant>`
 Response | `your url is: https://<whatEverYouWant>.localtunnel.me`
 
     assuming <whatEverYouWant> is not already currently in use
-
+ -->
 
 ## 4. Automation
 
