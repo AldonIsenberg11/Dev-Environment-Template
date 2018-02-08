@@ -43,6 +43,10 @@ Response | `your url is: https://<whatEverYouWant>.localtunnel.me`
 
 ## 5. Transpiling
 
+##### Babel | https://babeljs.io/
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+
 ## 6. Bundling
 
 ## 7. Linting
