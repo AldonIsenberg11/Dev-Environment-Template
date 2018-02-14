@@ -48,6 +48,13 @@ Response | `your url is: https://<whatEverYouWant>.localtunnel.me`
     "babel-preset-env": "^1.6.1",
 
 ## 6. Bundling
+    "babel-loader": "6.2.5",
+    "css-loader": "0.25.0",
+    "style-loader": "0.13.1", |
+    "webpack": "1.13.2",
+    "webpack-dev-middleware": "1.8.4",
+    "webpack-hot-middleware": "2.13.0"
+    https://stackoverflow.com/questions/34039826/webpack-style-loader-vs-css-loader
 
 ## 7. Linting
 
@@ -60,3 +67,11 @@ Response | `your url is: https://<whatEverYouWant>.localtunnel.me`
 ## 11. Production Build
 
 ## 12. Production Deploy
+
+## 13. Helpful Tools
+
+##### Chalk | https://github.com/chalk/chalk
+    "chalk": "1.1.3",
+
+##### Numeral | http://numeraljs.com/
+    "numeral": "1.5.3",
