@@ -49,9 +49,12 @@ Response | `your url is: https://<whatEverYouWant>.localtunnel.me`
 
 ## 6. Bundling
     "babel-loader": "6.2.5",
+    "css-loader": "0.25.0",
+    "style-loader": "0.13.1", |
     "webpack": "1.13.2",
     "webpack-dev-middleware": "1.8.4",
     "webpack-hot-middleware": "2.13.0"
+    https://stackoverflow.com/questions/34039826/webpack-style-loader-vs-css-loader
 
 ## 7. Linting
 
