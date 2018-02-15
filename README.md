@@ -48,6 +48,8 @@ Response | `your url is: https://<whatEverYouWant>.localtunnel.me`
     "babel-preset-env": "^1.6.1",
 
 ## 6. Bundling
+
+##### Webpack | https://webpack.js.org/
     "babel-loader": "6.2.5",
     "css-loader": "0.25.0",
     "style-loader": "0.13.1", |
@@ -59,6 +61,19 @@ Response | `your url is: https://<whatEverYouWant>.localtunnel.me`
     -Sourcemaps
 
 ## 7. Linting
+
+##### ES Lint | https://eslint.org/
+    "eslint": "3.8.1",
+    "eslint-plugin-import": "2.0.1",
+    "eslint-watch": "2.1.14",
+
+    We are using eslint-watch instead of esline-loader (webpack) because it displays better warning/error formatting, cleaner messaging, and can lint test and build scripts instead of only the bundled code.
+    
+    Config format?
+    Which built-in rules?
+    Warnings of errors?
+    Which plugins?
+    Use preset instead?
 
 ## 8. Testing and Continuous Integration
 
