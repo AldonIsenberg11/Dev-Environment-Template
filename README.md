@@ -78,14 +78,21 @@ Response | `your url is: https://<whatEverYouWant>.localtunnel.me`
 ## 8. Testing and Continuous Integration
     "babel-register": "6.16.3",
     "chai": "3.5.0",
+    "jsdom": "9.8.0",
     "mocha": "3.1.2",
 
     1. Framework - Mocha
     2. Assertion Library - Chai
     3. Helper Library - JSDOM, Cheerio
-    4. Where to run tests - Node (JSDOM in memory)
+    4. Where to run tests - Node (JSDOM in memory) - https://nodejs.org/api/fs.html
     5. Where to place tests - Alongside
     6. When to run unit tests - Upon save
+
+##### Mocha
+
+##### Chai
+
+##### JSDOM
 
 ## 9. HTTP Calls
 
